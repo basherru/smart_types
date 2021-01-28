@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+# [0.6.0] - 2021-02-05
+### Added
+- Added Github Actions CI config;
+- Fix typos in documentation;
+- Use `ArgumentError` instead of `DateError` in related type-casters;
+
 # [0.5.0] - 2021-01-28
 ### Added
 - New types of `SmartCore::Types::Variadic` category:
